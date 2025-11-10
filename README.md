@@ -1,22 +1,41 @@
-# 👋 Hi, I'm @CptLeoxo
+# 👋 Hey there, I'm cptleoxo
 
-🧑‍🎓 I'm a student at **UJEP**, studying **IT**  
-💻 Passionate about **cybersecurity**, **Linux** and **scripting** 
+🧑‍🎓 I'm a student at **UJEP**, studying **Information Technology**  
+💻 Passionate about **Cybersecurity**, **Linux**, and **Scripting**  
 🧠 I mostly work with **Bash**, **Python**, **R**, **C#**, and **SQL**  
-🌱 Currently learning more about **automation**, **servers**, and **network management**  
+🌱 Currently learning more about **automation**, **servers**, and **network management**
 
-### 🚀 My GitHub stats
+---
+
+### 🧰 Languages & Tools
+
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=cptleoxo&show_icons=true&theme=chartreuse-dark" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannovak&layout=compact&theme=chartreuse-dark" height="150em" />
+![My Skills](https://skillicons.dev/icons?i=python,bash,linux,cs,raspberrypi,sqlite,github,git,ubuntu,vscode)
 
 </div>
 
+---
 
-📫 Find me on Instagram: [@captain.leoxo](https://instagram.com/captain.leoxo)
+### 📊 GitHub Stats
 
-<!---
-CptLeoxo/CptLeoxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=cptleoxo&show_icons=true&theme=chartreuse-dark" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cptleoxo&layout=compact&theme=chartreuse-dark" height="180em" />
+
+</div>
+
+---
+
+### 🎧 What I'm listening to
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/u25u5s4v5k74zn0y399med3ui?si=08ca936ad52246d7)
+
+---
+
+### 📫 Connect with me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cpto.leoxo)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/6642)
+[![Email](https://img.shields.io/badge/-Email-8A8A8A?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:cpt.leo@proton.me)
