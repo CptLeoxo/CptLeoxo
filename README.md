@@ -1,9 +1,21 @@
-# 👋 Hey there, I'm cptleoxo
-
-🧑‍🎓 I'm a student at **UJEP**, studying **Information Technology**  
-💻 Passionate about **Cybersecurity**, **Linux**, and **Scripting**  
-🧠 I mostly work with **Bash**, **Python**, **R**, **C#**, and **SQL**  
-🌱 Currently learning more about **automation**, **servers**, and **network management**
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h1>👋 Hey there, I'm cptleoxo</h1>
+        <p>
+          🧑‍🎓 I'm a student at <b>UJEP</b>, studying <b>Information Technology</b><br>
+          💻 Passionate about <b>Cybersecurity</b>, <b>Linux</b>, and <b>Scripting</b><br>
+          🧠 I mostly work with <b>Bash</b>, <b>Python</b>, <b>R</b>, <b>C#</b>, and <b>SQL</b><br>
+          🌱 Currently learning more about <b>automation</b>, <b>servers</b>, and <b>network management</b><br>
+        </p>
+      </td>
+      <td>
+        <img src="cat.gif" width="150"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -20,16 +32,18 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=cptleoxo&show_icons=true&theme=chartreuse-dark" height="180em" />
-
 </div>
+
+<br><br> <!-- dvě prázdné řádky mezi grafy -->
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cptleoxo&layout=compact&theme=chartreuse-dark" height="130em" />
-
 </div>
+
+### What I'm listening to
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/u25u5s4v5k74zn0y399med3ui)
 
 ### 📫 Connect with me
 
