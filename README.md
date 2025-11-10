@@ -8,6 +8,7 @@
           💻 Passionate about <b>Cybersecurity</b>, <b>Linux</b>, and <b>Scripting</b><br>
           🧠 I mostly work with <b>Bash</b>, <b>Python</b>, <b>R</b>, <b>C#</b>, and <b>SQL</b><br>
           🌱 Currently learning more about <b>automation</b>, <b>servers</b>, and <b>network management</b><br>
+          <br> <!-- TADY JE NAVÍC MEZERA -->
         </p>
       </td>
       <td>
@@ -41,9 +42,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cptleoxo&layout=compact&theme=chartreuse-dark" height="130em" />
 </div>
 
-### What I'm listening to
+<br><br> <!-- dvě prázdné řádky mezi grafy -->
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/u25u5s4v5k74zn0y399med3ui)
+[![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cptleoxo&theme=github-compact&custom_title=My%20activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 📫 Connect with me
 
