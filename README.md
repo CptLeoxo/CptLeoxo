@@ -6,10 +6,13 @@
 🌱 Currently learning more about **automation**, **servers**, and **network management**  
 
 ### 🚀 My GitHub stats
-![Ny GitHub stats](https://github-readme-stats.vercel.app/api?username=cptleoxo&show_icons=true&theme=chartreuse-dark)
+<div align="center">
 
-### 🌟 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jannovak&layout=compact&theme=chartreuse-dark)
+  <img src="https://github-readme-stats.vercel.app/api?username=cptleoxo&show_icons=true&theme=chartreuse-dark" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jannovak&layout=compact&theme=chartreuse-dark" height="180em" />
+
+</div>
+
 
 📫 Find me on Instagram: [@captain.leoxo](https://instagram.com/captain.leoxo)
 
