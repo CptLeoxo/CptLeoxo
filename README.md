@@ -5,6 +5,12 @@
 🧠 I mostly work with **Bash**, **Python**, **R**, **C#**, and **SQL**  
 🌱 Currently learning more about **automation**, **servers**, and **network management**  
 
+### 🚀 My GitHub stats
+![Ny GitHub stats](https://github-readme-stats.vercel.app/api?username=cptleoxo&show_icons=true&theme=chartreuse-dark)
+
+### 🌟 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jannovak&layout=compact&theme=chartreuse-dark)
+
 📫 Find me on Instagram: [@captain.leoxo](https://instagram.com/captain.leoxo)
 
 <!---
