@@ -32,18 +32,6 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cptleoxo&show_icons=true&theme=chartreuse-dark" height="180em" />
-</div>
-
-<br><br> <!-- dvě prázdné řádky mezi grafy -->
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cptleoxo&layout=compact&theme=chartreuse-dark" height="130em" />
-</div>
-
-<br><br> <!-- dvě prázdné řádky mezi grafy -->
-
 [![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cptleoxo&theme=github-compact&custom_title=My%20activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 📫 Connect with me
