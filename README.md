@@ -4,11 +4,11 @@
       <td>
         <h1>👋 Hey there, I'm cptleoxo</h1>
         <p>
-          🧑‍🎓 I'm a student at <b>UJEP</b>, studying <b>Information Technology</b><br>
           💻 Passionate about <b>Cybersecurity</b>, <b>Linux</b>, and <b>Scripting</b><br>
-          🧠 I mostly work with <b>Bash</b>, <b>Python</b>, <b>R</b>, <b>C#</b>, and <b>SQL</b><br>
+          🛠 Current Stack: <b>Linux</b>, <b>Proxmox</b>, <b>Terraform</b>, <b>Docker</b>, <b>Nginx</b>.<br>
+          📊 Monitoring Expert: Advanced Zabbix configuration & automation.</br>
           🌱 Currently learning more about <b>automation</b>, <b>servers</b>, and <b>network management</b><br>
-          <br> <!-- TADY JE NAVÍC MEZERA -->
+          <br>
         </p>
       </td>
       <td>
