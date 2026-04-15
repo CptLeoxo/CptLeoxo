@@ -24,7 +24,7 @@
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=python,bash,linux,cs,raspberrypi,sqlite,github,git,ubuntu,zabbix)
+![My Skills](https://skillicons.dev/icons?i=python,bash,linux,cs,raspberrypi,sqlite,github,git,ubuntu)
 
 </div>
 
