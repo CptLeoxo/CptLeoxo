@@ -6,8 +6,8 @@
         <p>
           💻 Passionate about <b>Cybersecurity</b>, <b>Linux</b>, and <b>Scripting</b><br>
           🛠 Current Stack: <b>Linux</b>, <b>Proxmox</b>, <b>Terraform</b>, <b>Docker</b>, <b>Nginx</b>.<br>
-          📊 Monitoring Expert: Advanced Zabbix configuration & automation.</br>
-          🌱 Currently learning more about <b>automation</b>, <b>servers</b>, and <b>network management</b><br>
+          📊 Monitoring: Zabbix configuration & automation.</br>
+          🌱 Currently learning more about these topics.
           <br>
         </p>
       </td>
