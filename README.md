@@ -8,7 +8,7 @@
           💻 Passionate about <b>cybersecurity</b>, <b>systems</b>, and <b>scripting</b><br>
           🛠 Current Stack: <b>Linux</b>, <b>Proxmox</b>, <b>Terraform</b>, <b>Docker</b>, <b>Nginx</b>.<br>
           📊 Monitoring: Zabbix configuration & automation.</br>
-          🌱 Actively deepening expertise in IaC (Terraform) and container orchestration..
+          🌱 Actively deepening expertise in IaC (Terraform) and container orchestration.
           <br>
         </p>
       </td>
