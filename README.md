@@ -2,13 +2,13 @@
   <table>
     <tr>
       <td>
-        <h1>👋 Hey there, I'm cptleoxo</h1>
+        <h1>👋 Kai — System Administrator | Infrastructure Engineer</h1>
         <p>
           🚀 Status: Open to work in Barcelona (Remote/On-site)<br>
-          💻 Passionate about <b>Cybersecurity</b>, <b>Linux</b>, and <b>Scripting</b><br>
+          💻 Passionate about <b>cybersecurity</b>, <b>systems</b>, and <b>scripting</b><br>
           🛠 Current Stack: <b>Linux</b>, <b>Proxmox</b>, <b>Terraform</b>, <b>Docker</b>, <b>Nginx</b>.<br>
           📊 Monitoring: Zabbix configuration & automation.</br>
-          🌱 Currently learning more about these topics.
+          🌱 Actively deepening expertise in IaC (Terraform) and container orchestration..
           <br>
         </p>
       </td>
