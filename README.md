@@ -4,7 +4,7 @@
       <td>
         <h1>👋 Hey there, I'm cptleoxo</h1>
         <p>
-          🚀 Status: Open to work in Barcelona (Remote/On-site)
+          🚀 Status: Open to work in Barcelona (Remote/On-site)<br>
           💻 Passionate about <b>Cybersecurity</b>, <b>Linux</b>, and <b>Scripting</b><br>
           🛠 Current Stack: <b>Linux</b>, <b>Proxmox</b>, <b>Terraform</b>, <b>Docker</b>, <b>Nginx</b>.<br>
           📊 Monitoring: Zabbix configuration & automation.</br>
