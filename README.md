@@ -33,10 +33,6 @@ Languages: English, Czech, Ukrainian, Russian.
 
 ---
 
-### 📊 GitHub Stats
-
-[![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cptleoxo&theme=github-compact&custom_title=My%20activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### 📫 Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cpto.leoxo)
