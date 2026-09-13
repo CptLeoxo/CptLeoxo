@@ -37,6 +37,6 @@ Languages: English, Czech, Ukrainian, Russian.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cpto.leoxo)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/6642)
-[![Email](https://img.shields.io/badge/-Email-8A8A8A?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:cpt.leo@proton.me)
+[![Email](https://img.shields.io/badge/-Email-8A8A8A?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hello.kai.leon@gmail.com)
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/u25u5s4v5k74zn0y399med3ui)
 
