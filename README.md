@@ -25,7 +25,7 @@
 
 <div align="center">
 
-Languages: English, Czech, Ukrainian, Russian.
+Languages: English, Czech, Ukrainian, Russian, Spanish.
 
 ![My Skills](https://skillicons.dev/icons?i=python,bash,linux,raspberrypi,github,git,ubuntu,nginx,terraform,docker)
 
