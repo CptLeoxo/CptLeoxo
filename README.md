@@ -1,42 +1,37 @@
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h1>👋 Kai — System Administrator | Infrastructure Engineer</h1>
-        <p>
-          🚀 Status: Open to work in Barcelona (Remote/On-site)<br>
-          💻 Passionate about <b>cybersecurity</b>, <b>systems</b>, and <b>scripting</b><br>
-          🛠 Current Stack: <b>Linux</b>, <b>Proxmox</b>, <b>Terraform</b>, <b>Docker</b>, <b>Nginx</b>.<br>
-          📊 Monitoring: Zabbix configuration & automation.</br>
-          🌱 Actively deepening expertise in IaC (Terraform) and container orchestration.
-          <br>
-        </p>
-      </td>
-      <td>
-        <img src="cat.gif" width="150"/>
-      </td>
-    </tr>
-  </table>
-</div>
+# Hi, I'm Kai 👋
 
----
+**Junior DevOps / Cloud Infrastructure & Linux Support Engineer**
+Based in Manresa, Catalonia · Open to work: Barcelona (hybrid) or remote
 
-### 🧰 Languages & Tools
+2.5 years of hands-on datacenter experience (Proxmox, BIND9, Nginx, OpenVPN,
+Zabbix). Now building security-focused infrastructure projects, with a soft
+spot for game server hosting.
 
-<div align="center">
+## 🔧 Featured projects
 
-Languages: English, Czech, Ukrainian, Russian, Spanish.
+| Project | What it shows |
+|---|---|
+| [datacenter-in-a-box](https://github.com/CptLeoxo/datacenter-in-a-box) | Terraform + Docker Compose + Flask/PostgreSQL, validated by GitHub Actions |
+| [gs-orchestrator](https://github.com/CptLeoxo/gs-orchestrator) | Game server management with systemd, UFW, SSH key-only access |
+| [sysadmin-portfolio](https://github.com/CptLeoxo/sysadmin-portfolio) | Shell scripts for everyday sysadmin tasks |
 
-![My Skills](https://skillicons.dev/icons?i=python,bash,linux,raspberrypi,github,git,ubuntu,nginx,terraform,docker)
+## 🌱 Currently working on
+- Home SOC lab: Wazuh + Suricata, detection rules mapped to MITRE ATT&CK
+- Security hardening of game servers (threat model, CrowdSec, monitoring)
+- TryHackMe / OverTheWire write-ups
 
-</div>
+## 🧰 Stack
+Linux (Debian/Ubuntu) · Bash · Python · Docker · Terraform · GitHub Actions ·
+Proxmox · Nginx · BIND9 · Zabbix · PostgreSQL
 
----
+## 🎓 Certifications
+Cisco CCST Cybersecurity · NÚKIB Cybersecurity Essentials ·
+Proxmox VE Administration
 
-### 📫 Connect with me
+## 🌍 Languages
+English (working) · Czech (fluent) · Ukrainian, Russian (native) ·
+Spanish (learning, A1–A2)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cpto.leoxo)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/6642)
-[![Email](https://img.shields.io/badge/-Email-8A8A8A?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hello.kai.leon@gmail.com)
-[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/u25u5s4v5k74zn0y399med3ui)
-
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/kai-leon-996483325/) ·
+[hello.kai.leon@gmail.com](mailto:hello.kai.leon@gmail.com)
